@@ -1,4 +1,6 @@
 #include <iostream>
+	
+	cout<<"Integers that are less than 10 but not less than 3";
 
 using namespace std;
 
