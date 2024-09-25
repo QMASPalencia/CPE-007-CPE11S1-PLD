@@ -8,10 +8,10 @@ int main()
 	double num1,num2,ans;
 	
 	cout<<"You're using a MDAS calculator";
-	cout<<"Please input your symbol(+,-,*,/): ";cin>>symbol;
 	cout<<"Please input 2 integers"<<endl;
 	cout<<"First input: ";cin>>num1;
 	cout<<"Second input: ";cin>>num2;
+	cout<<"Please input your symbol(+,-,*,/): ";cin>>symbol;
 	
 	
 	
